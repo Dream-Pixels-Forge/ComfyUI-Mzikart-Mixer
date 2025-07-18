@@ -1,0 +1,20 @@
+{
+  "custom_nodes": [
+    {
+      "title": "ComfyUI Mzikart Mixer",
+      "author": "Dimona Patrick",
+      "description": "Professional audio processing nodes",
+      "reference": "https://github.com/Dream-Pixels-Forge/ComfyUI-Mzikart-Mixer",
+      "files": [
+        "MasteringEffects.py",
+        "CompressorNode.py",
+        "LimiterNode.py",
+        "MasteringSuiteNode.py",
+        "AudioPostProcessor.py",
+        "ArrangementEnforcer.py",
+        "__init__.py"
+      ],
+      "install_requirements": true
+    }
+  ]
+}
